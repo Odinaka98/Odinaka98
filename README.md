@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming.
 - 🌱 I’m currently learning ..html,css
 - 💞️ I’m looking to collaborate on web design projects
-- 📫 How to reach me ...osinakachiukwu@gmail.com
+- 📫 How to reach me ...odinakachiukwu@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...
 
